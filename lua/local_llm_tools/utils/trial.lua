@@ -1,0 +1,10 @@
+-- local context_manager = require 'plenary'.context_manager
+-- local with = context_manager.with
+-- local open = context_manager.open
+--
+-- local result = with(open("README.md"), function(reader)
+-- 	return reader:read()
+-- end)
+-- vim.print(result)
+-- assert(result == "## Project Title")
+-- -- plenary.curl()
